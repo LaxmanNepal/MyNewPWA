@@ -1,0 +1,23 @@
+   {
+    "name": "Laxman Nepal Official",
+    "short_name": "Laxman Nepal Official",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4SMHDwvwTWV0iqCj0fNCd3yeU9954jdzQWAGcg5v-q7u3g6RNyPI0wz33uJinsAY9KKQmIpAykC3nxbm7Tr9bA_FKwR58KRFJCo4dJMhEIl8QCoz2_zv2wXiztmS90A7yg5F9q3AOCm2wNiB2Vc3BSSJJlFEkfmml19TN6iHliO29f0pFg4N8eFlV1g/s16000/android-chrome-192%C3%97192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkyzBLdWLhe_udw02kbdoQX0E6_dSYJaW35G50AM_Tf5NTnzAHrzBLx_bmk0GF7NMPz86KHNqAmsrDEW75vO63HUkUPQUEnK80HYOWgDR_-OUmMoAX51qGJc6hQIJSX0b1DcPKliASXrG6bJJdCgw9aiP11_3Tf1ibwIK22Jcre9NY1tJb130vkF4UxQ/s16000/android-chrome-512%C3%97512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.laxmannepal.com.np"
+}
